@@ -1,0 +1,14 @@
+[
+  { "id": 1, "area": 45, "rooms": 1, "address": "ул. Абая, 10" },
+  { "id": 2, "area": 60, "rooms": 2, "address": "пр. Назарбаева, 25" },
+  { "id": 3, "area": 75, "rooms": 3, "address": "ул. Сатпаева, 7" },
+  { "id": 4, "area": 120, "rooms": 4, "address": "ул. Кунаева, 50" },
+  { "id": 5, "area": 35, "rooms": 1, "address": "ул. Пушкина, 15" },
+  { "id": 6, "area": 90, "rooms": 3, "address": "ул. Байтурсынова, 5" },
+  { "id": 7, "area": 55, "rooms": 2, "address": "ул. Валиханова, 18" },
+  { "id": 8, "area": 80, "rooms": 3, "address": "ул. Толе би, 22" },
+  { "id": 9, "area": 100, "rooms": 4, "address": "ул. Кабанбай батыра, 12" },
+  { "id": 10, "area": 65, "rooms": 2, "address": "ул. Жансугурова, 30" },
+  { "id": 11, "area": 85, "rooms": 3, "address": "ул. Айтматова, 14" },
+  { "id": 12, "area": 150, "rooms": 5, "address": "пр. Мангилик Ел, 101" }
+]
