@@ -1,5 +1,3 @@
-# Vue 3 + TypeScript + Vite
-
 # Установка зависимостей
 
 npm install
